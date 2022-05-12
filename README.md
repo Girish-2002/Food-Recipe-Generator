@@ -4,5 +4,7 @@ This is a website where you can find different recipes to cook and enjoy your me
 >>USED TECHNOLOGIES<<
 
 +HTML
+
 +CSS
+
 +JAVASCRIPT
