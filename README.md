@@ -17,6 +17,10 @@ Generate random recipes using Recipe Generator. Find new ingredients and spices 
 As a home cook, I want to break out of my current cooking habits and combinations, but currently I only have existing recipes/cooking methods, which makes me feel restricted and uninspired. ☹️
 
 Recipe Generator to the rescue! 🦸🏻‍♀️
+
+
+
+Check out this link for amazing recipes to fill u'r "TUMMIES" -https://foodrecipe-generator.netlify.app/
    
 
 
